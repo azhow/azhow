@@ -13,13 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there, I'm Arthur Zachow 👋
+## Hi, I’m Arthur 👋
 
-I'm a **Senior Software Engineer** with over **6 years** of experience developing cross-platform, safety-critical software. My expertise lies in **C++**, **Python**, and **Go**. I'm passionate about creating efficient **command-line tools** that empower developers to deliver higher quality work faster.
+Senior software engineer focused on backend services, core application software, and concurrent systems. My strongest background is in C++, alongside Python and C#, with Go used in personal projects.
 
-## 🔭 Current Projects
-
-- Currently, I am working on a simulator for running DDoS detection and mitigation experiments based on the [EUCLID system](https://ieeexplore.ieee.org/abstract/document/9311137) 
+I enjoy building processing engines, designing clear APIs, and solving performance and integration problems. Outside work, I build software for everyday use and manage my own containerised infrastructure.
 
 ## 🌱 Interests
 
